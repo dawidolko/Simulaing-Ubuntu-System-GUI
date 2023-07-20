@@ -2,7 +2,7 @@
 redirect_to: php.dawidolko.pl
 ---
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&width=600&height=70&lines=J%C4%99zyk+PHP)](https://git.io/typing-svg)](https://github.com/dawidolko/Programming-PHP)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&width=600&height=70&lines=J%C4%99zyk+PHP)](https://github.com/dawidolko/Programming-PHP/tree/main)
 <br>![PHP](php.png)
 
 ## Spis treści:
