@@ -1,27 +1,27 @@
-# Kursy z języka PHP
-Witaj w świecie kursów z języka PHP! Kursy z PHP oferują unikalną okazję nauki tego popularnego języka programowania, który jest niezbędny dla każdego programisty zajmującego się tworzeniem stron internetowych, aplikacji webowych oraz systemów zarządzania treścią. Dzięki tym kursom zdobędziesz solidne podstawy i zaawansowaną wiedzę, które pozwolą Ci tworzyć interaktywne i dynamiczne strony internetowe oraz zaawansowane aplikacje webowe.
+# PHP courses
+Welcome to the world of PHP courses! PHP courses offer a unique opportunity to learn this popular programming language, which is essential for every programmer involved in creating websites, web applications and content management systems. Thanks to these courses, you will gain solid foundations and advanced knowledge that will allow you to create interactive and dynamic websites and advanced web applications.
 
-## Dlaczego warto uczestniczyć w kursach z języka PHP?
-Uniwersalność: PHP jest jednym z najpopularniejszych języków programowania używanych w web developmentzie. Pozwala na tworzenie zarówno prostych stron internetowych, jak i zaawansowanych aplikacji webowych.
+## Why is it worth taking PHP courses?
+Versatility: PHP is one of the most popular programming languages used in web development. It allows you to create both simple websites and advanced web applications.
 
-Praktyczna nauka: Kursy z PHP skupiają się na praktycznym podejściu, co pozwala na tworzenie własnych projektów i rozwiązywanie realnych problemów, co przyspiesza naukę.
+Practical learning: PHP courses focus on a practical approach, which allows you to create your own projects and solve real problems, which accelerates your learning.
 
-Zastosowanie w praktyce: Kursy skupiają się na tworzeniu rzeczywistych rozwiązań, co pozwoli Ci nauczyć się, jak wykorzystać język PHP w prawdziwych projektach.
+Practical application: The courses focus on creating real solutions, which will allow you to learn how to use PHP in real projects.
 
-Wsparcie ekspertów: W trakcie kursów będziesz mieć możliwość korzystania z wsparcia ekspertów i mentorów, którzy pomogą Ci w rozwiązywaniu problemów i rozwijaniu umiejętności.
+Expert support: During the courses, you will have the opportunity to benefit from the support of experts and mentors who will help you solve problems and develop your skills.
 
-## Przykładowe tematy kursów:
-Podstawy PHP: Nauka składni, typów danych, zmiennych, operatorów i funkcji w języku PHP.
+## Sample course topics:
+PHP Basics: Learn syntax, data types, variables, operators and functions in PHP.
 
-Tworzenie stron internetowych: Nauczenie się, jak tworzyć proste i interaktywne strony internetowe z wykorzystaniem PHP.
+Website Development: Learning how to create simple and interactive websites using PHP.
 
-Aplikacje webowe: Poznanie technik tworzenia zaawansowanych aplikacji webowych z wykorzystaniem PHP i baz danych.
+Web applications: Learning techniques for creating advanced web applications using PHP and databases.
 
-Systemy zarządzania treścią (CMS): Tworzenie własnych CMS-ów, które umożliwiają łatwe zarządzanie treścią na stronach internetowych.
+Content management systems (CMS): Create your own CMS that allows you to easily manage content on websites.
 
-Formularze i logowanie użytkowników: Implementacja formularzy oraz systemów rejestracji i logowania użytkowników.
+Forms and user login: Implementation of forms and user registration and login systems.
 
-## Dla kogo są kursy z języka PHP?
-Kursy z języka PHP są odpowiednie zarówno dla początkujących, którzy dopiero zaczynają swoją przygodę z programowaniem, jak i dla bardziej zaawansowanych programistów, którzy chcą poszerzyć swoje umiejętności. Niezależnie od Twojego poziomu zaawansowania, kursy z PHP oferują mnóstwo możliwości nauki i doskonalenia swoich umiejętności programistycznych.
+## Who are PHP courses for?
+PHP courses are suitable for both beginners who are just starting their programming adventure and for more advanced programmers who want to expand their skills. Regardless of your level of advancement, PHP courses offer plenty of opportunities to learn and improve your programming skills.
 
-Zapraszamy do uczestnictwa w kursach z języka PHP i odkrycia jego potencjału w tworzeniu innowacyjnych i zaawansowanych rozwiązań webowych. Niech te kursy stanowią inspirację do zdobycia nowych umiejętności i osiągnięcia sukcesu w dziedzinie web developmentu.
+We invite you to participate in PHP courses and discover its potential in creating innovative and advanced web solutions. Let these courses inspire you to acquire new skills and achieve success in the field of web development.
