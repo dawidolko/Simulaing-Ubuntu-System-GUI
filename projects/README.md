@@ -1,27 +1,27 @@
-# Projekty w języku PHP
-Witaj w świecie projektów w języku PHP! PHP to jeden z najpopularniejszych języków programowania używanych do tworzenia stron internetowych oraz aplikacji webowych. Jego wszechstronność, łatwość nauki i ogromna społeczność programistyczna czynią go idealnym narzędziem do rozwijania różnorodnych projektów.
+# PHP projects
+Welcome to the world of PHP projects! PHP is one of the most popular programming languages used to create websites and web applications. Its versatility, ease of learning and huge developer community make it the perfect tool for developing a variety of projects.
 
-## Dlaczego warto uczestniczyć w projektach w języku PHP?
-Uniwersalność: PHP jest powszechnie używany na całym świecie do tworzenia stron internetowych, zarówno statycznych, jak i dynamicznych. Z jego pomocą możesz również tworzyć zaawansowane aplikacje webowe, systemy zarządzania treścią (CMS), sklepy internetowe i wiele innych.
+## Why is it worth participating in PHP projects?
+Versatility: PHP is widely used all over the world to create websites, both static and dynamic. With its help, you can also create advanced web applications, content management systems (CMS), online stores and much more.
 
-Łatwość nauki: Język PHP jest stosunkowo łatwy do nauki, co czyni go odpowiednim zarówno dla początkujących programistów, jak i dla doświadczonych developerów, którzy chcą rozwinąć swoje umiejętności.
+Ease of learning: PHP is relatively easy to learn, making it suitable for both beginner developers and experienced developers who want to expand their skills.
 
-Dostępność zasobów: PHP ma ogromną i aktywną społeczność programistyczną, co oznacza dostęp do wielu bibliotek, frameworków, narzędzi i tutorali, które ułatwiają pracę i przyspieszają rozwijanie projektów.
+Availability of resources: PHP has a huge and active programming community, which means access to many libraries, frameworks, tools and tutorials that make your work easier and accelerate the development of projects.
 
-Wsparcie dla baz danych: PHP jest silnie zintegrowany z wieloma bazami danych, co umożliwia łatwe przechowywanie i zarządzanie danymi w aplikacjach webowych.
+Database support: PHP is strongly integrated with many databases, which allows you to easily store and manage data in web applications.
 
-## Przykładowe projekty:
-Systemy zarządzania treścią (CMS): Tworzenie własnych CMS-ów, które umożliwiają prostą i intuicyjną edycję treści na stronach internetowych.
+## Sample projects:
+Content management systems (CMS): Creating your own CMS that enable simple and intuitive editing of content on websites.
 
-Sklepy internetowe: Projektowanie pełnoprawnych sklepów internetowych z funkcjami zarządzania produktami, koszykami, płatnościami online i innymi.
+Online Stores: Design full-fledged online stores with product management, shopping carts, online payments and more.
 
-Blogi i fora internetowe: Tworzenie platform do publikowania treści, dzielenia się opiniami oraz komunikacji z użytkownikami.
+Blogs and online forums: Creating platforms for publishing content, sharing opinions and communicating with users.
 
-Aplikacje webowe: Projektowanie różnorodnych aplikacji webowych, takich jak kalkulatory, planery, organizery czy gry online.
+Web applications: Designing various web applications, such as calculators, planners, organizers and online games.
 
-Rejestracja użytkowników i logowanie: Implementacja systemów rejestracji i logowania użytkowników, które umożliwiają dostęp do spersonalizowanych funkcji.
+User Registration and Login: Implementation of user registration and login systems that enable access to personalized features.
 
-## Dla kogo są projekty w języku PHP?
-Projekty w języku PHP są odpowiednie dla każdego, kto interesuje się tworzeniem stron internetowych i aplikacji webowych. Bez względu na poziom zaawansowania, od początkujących do zaawansowanych, projekty w PHP oferują możliwość praktycznego zastosowania wiedzy i doskonalenia umiejętności.
+## Who are PHP projects for?
+PHP projects are suitable for anyone interested in creating websites and web applications. Regardless of the level of advancement, from beginners to advanced, PHP projects offer the opportunity to practically apply knowledge and improve skills.
 
-Zapraszamy do uczestnictwa w projektach w języku PHP i rozwijania swoich umiejętności programistycznych. Niech te projekty stanowią inspirację do tworzenia innowacyjnych i użytecznych rozwiązań webowych, które przyczynią się do rozwoju technologicznego i doskonalenia świata online
+We invite you to participate in PHP projects and develop your programming skills. Let these projects serve as an inspiration to create innovative and useful web solutions that will contribute to technological development and improvement of the online world.
