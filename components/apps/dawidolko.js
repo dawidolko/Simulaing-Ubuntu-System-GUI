@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ReactGA from "react-ga4";
 
-export class AboutVivek extends Component {
+export class AboutDawidolko extends Component {
   constructor() {
     super();
     this.screens = {};
@@ -68,7 +68,7 @@ export class AboutVivek extends Component {
           }>
           <img
             className=" w-3 md:w-4"
-            alt="about vivek"
+            alt="about dawidolko"
             src="./themes/Yaru/status/about.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">About Me</span>
@@ -85,7 +85,7 @@ export class AboutVivek extends Component {
           }>
           <img
             className=" w-3 md:w-4"
-            alt="vivek' education"
+            alt="dawidolko' education"
             src="./themes/Yaru/status/education.svg"
           />
           <span className=" ml-1 md:ml-2 text-gray-50 ">Education</span>
@@ -167,10 +167,10 @@ export class AboutVivek extends Component {
   }
 }
 
-export default AboutVivek;
+export default AboutDawidolko;
 
-export const displayAboutVivek = () => {
-  return <AboutVivek />;
+export const displayAboutDawidolko = () => {
+  return <AboutDawidolko />;
 };
 
 function About() {
@@ -315,22 +315,22 @@ function Skills() {
             <img
               className="m-1"
               src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"
-              alt="vivek javascript"
+              alt="dawidolko javascript"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"
-              alt="vivek c++"
+              alt="dawidolko c++"
             />
             <img
               className="m-1"
               src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff"
-              alt="vivek python"
+              alt="dawidolko python"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"
-              alt="vivek dart"
+              alt="dawidolko dart"
             />
             <a
               href="https://www.google.com/search?q=is+html+a+language%3F"
@@ -340,22 +340,22 @@ function Skills() {
                 title="yes it's a language!"
                 className="m-1"
                 src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff"
-                alt="vivek HTML"
+                alt="dawidolko HTML"
               />
             </a>
             <img
               src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff"
-              alt="vivek SASS"
+              alt="dawidolko SASS"
               className="m-1"
             />
             <img
               src="https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff"
-              alt="vivek git"
+              alt="dawidolko git"
               className="m-1"
             />
             <img
               src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff"
-              alt="vivek firebase"
+              alt="dawidolko firebase"
               className="m-1"
             />
           </div>
@@ -365,37 +365,37 @@ function Skills() {
             <img
               className=" m-1"
               src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=ffffff"
-              alt="vivek next"
+              alt="dawidolko next"
             />
             <img
               className=" m-1"
               src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff"
-              alt="vivek react"
+              alt="dawidolko react"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"
-              alt="vivek flutter"
+              alt="dawidolko flutter"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"
-              alt="vivek tailwind css"
+              alt="dawidolko tailwind css"
             />
             <img
               src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff"
-              alt="vivek node.js"
+              alt="dawidolko node.js"
               className="m-1"
             />
             <img
               src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"
-              alt="vivek jquery"
+              alt="dawidolko jquery"
               className="m-1"
             />
             <img
               className="m-1"
               src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"
-              alt="vivek redux"
+              alt="dawidolko redux"
             />
           </div>
         </div>
@@ -406,7 +406,7 @@ function Skills() {
           <img
             className=" inline ml-1"
             src="http://img.shields.io/badge/-Linux-0078D6?style=plastic&logo=linux&logoColor=ffffff"
-            alt="vivek linux"
+            alt="dawidolko linux"
           />{" "}
           <span>!</span>
         </li>
