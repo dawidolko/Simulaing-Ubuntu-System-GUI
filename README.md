@@ -28,7 +28,7 @@ into it. Replace \*your user id and your service ID with your values in your Ema
 
 ## Star History
 
-[Zobacz historię gwiazdek dla Simulaing-Ubuntu-System-GUI na Star History](https://star-history.t9t.io/#dawidolko/Simulating-Ubuntu-System-GUI)
+[![Star History Chart](https://api.star-history.com/svg?repos=dawidolko/Simulaing-Ubuntu-System-GUI&type=Date)](https://star-history.com/#dawidolko/Simulaing-Ubuntu-System-GUI&Date)
 
 ## This project was made using Create Next App! Here is the scripts that u can run.
 
