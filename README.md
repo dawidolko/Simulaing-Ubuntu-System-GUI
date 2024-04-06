@@ -1,28 +1,61 @@
-# Programming-PHP
+# Web simulation of UbuntuOS
 
-## Description:
-Programming-PHP is a repository dedicated to programming in the PHP language. Here you will find sample projects, scripts, and learning materials for web development using PHP.
+This is a personal portfolio website of theme Ubuntu 20.04, made using Next.js & tailwind CSS.
+If you want to edit this. Clone this project and edit the files in `/src/components`.
 
-## Repository Structure:
-/Projects: This folder contains various projects where we focus on PHP programming. Each project has its own folder with description, source code, and project files.
+To run this on localhost
+type `npm start` and when u are done coding type `npm run build` to build your app.
 
-/Courses: This folder contains ready-made PHP scripts that can be useful in various projects and applications.
+_NOTE: if you have yarn just replace `npm start` and `npm run build` with `yarn start` and `yarn build`._
 
-/Labs: Here you will find educational materials such as tutorials, guides, and articles to help you learn and understand PHP and web development.
+### To make the contact form work
 
-## How to start:
-Clone the repository to your local computer:
+- Create a account in [emailjs](https://www.emailjs.com/) create also new Outlook or Gmail account to be able
+  to send email.
+- Create a new service, select and log in to your newly created outlook or gmail account on EmailJS.
+- Go back to the dashboard and get the Service ID copy it.
+- Create a .env file in your root folder and put
+
 ```
-git clone https://github.com/yourusername/Programming-PHP.git
+
+NEXT_PUBLIC_USER_ID = 'YOUR_USER_ID'
+NEXT_PUBLIC_TEMPLATE_ID = 'template_fqqqb9g'
+NEXT_PUBLIC_SERVICE_ID = 'YOUR_SERVICE_ID'
+
 ```
-Browse available projects, scripts, and materials in their respective folders.
 
-Leverage available resources and tools to create web applications and dynamic websites using PHP.
+into it. Replace \*your user id and your service ID with your values in your EmailJS service.
 
-## System requirements
-To start programming in PHP, you'll need a web server with PHP support installed. You can use popular web servers like Apache, Nginx, or XAMPP that come bundled with PHP.
+## Star History
 
-## Contributions and Support
-If you want to contribute to this repository, you can report issues, create pull requests, or share your own PHP development projects. Any contributions are welcome!
+[![Star History Chart](https://api.star-history.com/svg?repos=vivek9patel/vivek9patel.github.io&type=Date)](https://star-history.com/#vivek9patel/vivek9patel.github.io&Date)
 
-If you have any questions or need help, please contact me via email or GitHub.
+## This project was made using Create Next App! Here is the scripts that u can run.
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributiors who wants to make this website better can make contribution,which will be **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
