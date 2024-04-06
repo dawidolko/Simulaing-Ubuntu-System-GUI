@@ -1473,7 +1473,7 @@
                     (0, i.jsx)("div", {
                       className:
                         " text-lg md:text-xl text-left font-bold leading-tight",
-                      children: "Arizona State University",
+                      children: "University of Rzeszów",
                     }),
                     (0, i.jsx)("div", {
                       className: " text-sm text-gray-400 mt-0.5",
@@ -1485,7 +1485,7 @@
                     }),
                     (0, i.jsx)("div", {
                       className: "text-sm text-gray-300 font-bold mt-1",
-                      children: "GPA \xa0 4.0/4.0",
+                      children: "GPA \xa0 5.0/5.0",
                     }),
                   ],
                 }),
@@ -1495,7 +1495,7 @@
                     (0, i.jsx)("div", {
                       className:
                         " text-lg md:text-xl text-left font-bold leading-tight",
-                      children: "Pandit Deendayal Energy University - PDEU",
+                      children: "Electrical engineering school in Nisko",
                     }),
                     (0, i.jsx)("div", {
                       className: " text-sm text-gray-400 mt-0.5",
@@ -1503,37 +1503,11 @@
                     }),
                     (0, i.jsx)("div", {
                       className: " text-sm md:text-base",
-                      children: "Computer Engineering",
+                      children: "Electrical technician",
                     }),
                     (0, i.jsx)("div", {
                       className: "text-sm text-gray-300 font-bold mt-1",
-                      children: "CGPA \xa0 9.35/10",
-                    }),
-                  ],
-                }),
-                (0, i.jsxs)("li", {
-                  className: "list-disc mt-5",
-                  children: [
-                    (0, i.jsxs)("div", {
-                      className:
-                        " text-lg md:text-xl text-left font-bold leading-tight",
-                      children: [
-                        "Class 12",
-                        (0, i.jsx)("sup", { children: "th" }),
-                        " (GSEB)",
-                      ],
-                    }),
-                    (0, i.jsx)("div", {
-                      className: " text-sm text-gray-400 mt-0.5",
-                      children: "2016 - 2018",
-                    }),
-                    (0, i.jsx)("div", {
-                      className: " text-sm md:text-base",
-                      children: "Maths, Physics, Chemistry",
-                    }),
-                    (0, i.jsx)("div", {
-                      className: "text-sm text-gray-300 font-bold mt-1",
-                      children: "Percentile Rank \xa0 94.1%",
+                      children: "CGPA \xa0 8.0/10",
                     }),
                   ],
                 }),
