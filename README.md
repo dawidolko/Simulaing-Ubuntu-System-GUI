@@ -28,7 +28,7 @@ into it. Replace \*your user id and your service ID with your values in your Ema
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dawidolko/ubuntu.dawidolko.pl&type=Date)](https://star-history.com/#dawidolko/ubuntu.dawidolko.pl&Date)
+[![Star History Chart](https://star-history.com/#dawidolko/Simulaing-Ubuntu-System-GUI&Date)](https://star-history.com/#/Simulaing-Ubuntu-System-GUI&Date)
 
 ## This project was made using Create Next App! Here is the scripts that u can run.
 
