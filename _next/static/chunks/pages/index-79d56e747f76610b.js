@@ -1337,7 +1337,7 @@
               className: "w-20 md:w-28 my-4 bg-white rounded-full",
               children: (0, i.jsx)("img", {
                 className: "w-full",
-                src: "./images/logos/bitmoji.png",
+                src: "./images/logos/bitmoji.JPG",
                 alt: "dawidolko Patel Logo",
               }),
             }),
