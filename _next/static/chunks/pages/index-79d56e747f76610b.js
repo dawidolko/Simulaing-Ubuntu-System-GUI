@@ -1284,7 +1284,7 @@
                       }),
                       (0, i.jsx)("span", {
                         className: " ml-1 md:ml-2 text-gray-50 ",
-                        children: "Projects",
+                        children: "Sponsors",
                       }),
                     ],
                   }),
@@ -1391,7 +1391,7 @@
                       className: " font-medium",
                       children: "Graduate Student",
                     }),
-                    " currently pursuing Computer Science. I've completed my 6 month SWE intern at ",
+                    " currently pursuing Computer Science. I've completed my 2 month PL intern at ",
                     (0, i.jsxs)("u", {
                       className: " cursor-pointer ",
                       children: [
@@ -1737,7 +1737,7 @@
             (0, i.jsxs)("div", {
               className: " font-medium relative text-2xl mt-2 md:mt-4 mb-4",
               children: [
-                "Projects",
+                "Sponsors",
                 (0, i.jsxs)("div", {
                   className: "absolute pt-px bg-white mt-px top-full w-full",
                   children: [
@@ -2156,7 +2156,7 @@
             desktop_shortcut: !1,
             screen: function () {
               return (0, i.jsx)("iframe", {
-                src: "https://github1s.com/dawidolko",
+                src: "https://github1s.com/dawidolko/Simulaing-Ubuntu-System-GUI/tree/main",
                 frameBorder: "0",
                 title: "VsCode",
                 className: "h-full w-full bg-ub-cool-grey",
