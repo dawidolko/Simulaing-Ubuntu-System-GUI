@@ -1,4 +1,42 @@
-# Web simulation of UbuntuOS
+# ubuntu.dawidolko.pl
+
+```
+.
+├── .next
+│ └── ...
+├── .github
+│ └── ...
+├── .vscode
+│ └── ...
+├── components
+│ └── ...
+├── files
+│ └── ...
+├── images
+│ └── ...
+├── pages
+│ └── ...
+├── public
+│ └── ...
+├── styles
+│ └── ...
+├── themes
+│ └── ...
+├── .gitattributes
+├── .gitignore
+├── .nojekyll
+├── 404.html
+├── apps.config.js
+├── CNAME
+├── index.html
+├── LICENSE
+├── package.json
+├── postcss.config.js
+├── README.md
+├── robots.txt
+├── tailwind.config.js
+└── yarn.lock
+```
 
 This is a personal portfolio website of theme Ubuntu 20.04, made using Next.js & tailwind CSS.
 If you want to edit this. Clone this project and edit the files in `/src/components`.
