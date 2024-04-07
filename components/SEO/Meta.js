@@ -5,11 +5,11 @@ export default function Meta() {
   return (
     <Head>
       /* Primary Meta Tags */
-      <title>dawidolko Portfolio - Computer Engineering Student</title>
+      <title>ubuntu.dawidolko.pl - Simulaing System Ubuntu</title>
       <meta charSet="utf-8" />
       <meta
         name="title"
-        content="Dawid Olko Portfolio - Computer Engineering Student"
+        content="ubuntu.dawidolko.pl - Simulaing System Ubuntu"
       />
       <meta
         name="description"
@@ -30,7 +30,7 @@ export default function Meta() {
       /* Schema.org for Google */
       <meta
         itemProp="name"
-        content="Dawid Olko Portfolio - Computer Engineering Student"
+        content="ubuntu.dawidolko.pl - Simulaing System Ubuntu"
       />
       <meta
         itemProp="description"
@@ -41,7 +41,7 @@ export default function Meta() {
       <meta name="twitter:card" content="summary" />
       <meta
         name="twitter:title"
-        content="Dawid Olko Portfolio - Computer Engineering Student"
+        content="ubuntu.dawidolko.pl - Simulaing System Ubuntu"
       />
       <meta
         name="twitter:description"
@@ -53,7 +53,7 @@ export default function Meta() {
       /* Open Graph general (Facebook, Pinterest & Google+) */
       <meta
         name="og:title"
-        content="Dawid Olko Portfolio - Computer Engineering Student"
+        content="ubuntu.dawidolko.pl - Simulaing System Ubuntu"
       />
       <meta
         name="og:description"
