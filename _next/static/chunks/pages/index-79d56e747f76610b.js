@@ -3989,12 +3989,12 @@
           children: [
             "/* Primary Meta Tags */",
             (0, i.jsx)("title", {
-              children: "Dawid Olko Portfolio - Computer Engineering Student",
+              children: "ubuntu.dawidolko.pl - Simulaing-Ubuntu-System-GUI",
             }),
             (0, i.jsx)("meta", { charSet: "utf-8" }),
             (0, i.jsx)("meta", {
               name: "title",
-              content: "Dawid Olko Portfolio - Computer Engineering Student",
+              content: "ubuntu.dawidolko.pl - Simulaing-Ubuntu-System-GUI",
             }),
             (0, i.jsx)("meta", {
               name: "description",
@@ -4029,7 +4029,7 @@
             "/* Schema.org for Google */",
             (0, i.jsx)("meta", {
               itemProp: "name",
-              content: "Dawid Olko Portfolio - Computer Engineering Student",
+              content: "ubuntu.dawidolko.pl - Simulaing-Ubuntu-System-GUI",
             }),
             (0, i.jsx)("meta", {
               itemProp: "description",
@@ -4044,7 +4044,7 @@
             (0, i.jsx)("meta", { name: "twitter:card", content: "summary" }),
             (0, i.jsx)("meta", {
               name: "twitter:title",
-              content: "Dawid Olko Portfolio - Computer Engineering Student",
+              content: "ubuntu.dawidolko.pl - Simulaing-Ubuntu-System-GUI",
             }),
             (0, i.jsx)("meta", {
               name: "twitter:description",
@@ -4066,7 +4066,7 @@
             "/* Open Graph general (Facebook, Pinterest & Google+) */",
             (0, i.jsx)("meta", {
               name: "og:title",
-              content: "Dawid Olko Portfolio - Computer Engineering Student",
+              content: "ubuntu.dawidolko.pl - Simulaing-Ubuntu-System-GUI",
             }),
             (0, i.jsx)("meta", {
               name: "og:description",
